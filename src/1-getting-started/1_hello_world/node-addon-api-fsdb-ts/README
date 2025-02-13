@@ -1,0 +1,2 @@
+node-gyp rebuildi
+npm run dev
