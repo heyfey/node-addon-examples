@@ -1,0 +1,15 @@
+{
+  "name": "read_fsdb",
+  "version": "0.0.0",
+  "description": "Node.js Addons Example #1",
+  "main": "read_fsdb.js",
+  "private": true,
+  "dependencies": {
+    "bindings": "~1.5.0",
+    "node-addon-api": "^8.1.0"
+  },
+  "scripts": {
+    "test": "node read_fsdb.js"
+  },
+  "gypfile": true
+}
